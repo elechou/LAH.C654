@@ -20,8 +20,7 @@ Tools and data source:
 Alcedo atthis
 
 This media is sourced from the [Macaulay Library](https://macaulaylibrary.org/asset/26854431).
-
-**Copyright**: © Cornell Lab of Ornithology, Macaulay Library.
+© Cornell Lab of Ornithology, Macaulay Library.
 
 ## **Installation**
 
