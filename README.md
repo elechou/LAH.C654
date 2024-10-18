@@ -1,2 +1,2 @@
-# LAH.C654
-A project for Lecture LAH.C654.
+# LAH. C654
+A project for Lecture LAH. C654.
