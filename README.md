@@ -13,7 +13,10 @@ Tools and data source:
 2. Vector Database: Chroma DB
 3. Data Source: https://ebird.org/home
 
-[![Macaulay Library Media](https://cdn.download.ams.birds.cornell.edu/api/v2/asset/26854431/1800)](https://cdn.download.ams.birds.cornell.edu/api/v2/asset/26854431/1800)
+<a href="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/26854431/1800">
+    <img src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/26854431/1800" width="500px" alt="Macaulay Library Media">
+</a>
+
 Alcedo atthis
 
 This media is sourced from the [Macaulay Library](https://macaulaylibrary.org/asset/26854431).
