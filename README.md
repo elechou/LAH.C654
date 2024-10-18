@@ -17,7 +17,7 @@ Tools and data source:
     <img src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/26854431/1800" width="500px" alt="Macaulay Library Media">
 </a>
 
-Alcedo atthis
+Alcedo atthis (カワセミ)
 
 This media is sourced from the [Macaulay Library](https://macaulaylibrary.org/asset/26854431).
 © Cornell Lab of Ornithology, Macaulay Library.
