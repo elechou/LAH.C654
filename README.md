@@ -9,18 +9,21 @@ This project aims to find species name through user inputted identification word
 red(Color), lanky(Body type), shallow wetland(living place), etc.
 
 Tools and data source:
-1. Large Language Model (LLM): OpenAI
-2. Vector Database: Chroma DB
-3. Data Source: https://ebird.org/home
+1. Large Language Model (LLM): dunzhang/stella_en_1.5B_v5
+2. Vector Database: --
+3. Data Source: https://ebird.org/
 
-<a href="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/26854431/1800">
+DEMO:
+![source/RAG-ebird.png](source/RAG-ebird.png "Demo")
+
+<!-- <a href="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/26854431/1800">
     <img src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/26854431/1800" width="500px" alt="Macaulay Library Media">
 </a>
 
 Alcedo atthis (カワセミ)
 
 This media is sourced from the [Macaulay Library](https://macaulaylibrary.org/asset/26854431).
-© Cornell Lab of Ornithology, Macaulay Library.
+© Cornell Lab of Ornithology, Macaulay Library. -->
 
 ## **Installation**
 
