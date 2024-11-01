@@ -1,0 +1,602 @@
+{
+    "Willow Tit": {
+        "binomialName": "Poecile montanus",
+        "identification": "Active little inhabitant of coniferous and mixed forest, birch woodland, willow and alder scrub. Very similar to Marsh Tit, and often best separated by its differently whistled song (more helpful in western range than in eastern). Gives various high-pitched and scolding calls; generally narrower vocal range than Marsh Tit. Often in scrubbier habitats than Marsh Tit; sometimes visits feeders. On Willow Tit, note pale wing panel (vs. rather plain wings of Marsh), slightly larger and messier black bib, and brighter buffy flanks.",
+        "macaulayID": "44341321",
+        "url": "https://ebird.org/species/wiltit1/JP-13"
+    },
+    "Mute Swan": {
+        "binomialName": "Cygnus olor",
+        "identification": "Huge white bird with long neck, reddish-orange bill, and black face. Adults have a black knob on top of the bill. Immatures are dusky brown with a gray bill. Native to northern Europe and Asia, but introduced in many regions, where it is now common on ponds, lakes, and calm coastal waters. Very aggressive toward native waterfowl. Often seen in pairs or small family groups.",
+        "macaulayID": "53961801",
+        "url": "https://ebird.org/species/mutswa/JP-13"
+    },
+    "Brown-eared Bulbul": {
+        "binomialName": "Hypsipetes amaurotis",
+        "identification": "A large grayish songbird that shows considerable plumage variation throughout its range. Regularly found flocking in forested habitats as well as more open environments such as farmland and cities, where its loud vocalizations, long tail, and undulating flight make it conspicuous and distinctive. The Taiwan subspecies (harteri) is gray above, pale below, with chestnut extending from cheek to underparts, where it extends down the belly in streaks. Varied calls are loud and shrill.",
+        "macaulayID": "84554641",
+        "url": "https://ebird.org/species/brebul1/JP-13"
+    },
+    "Eyebrowed Thrush": {
+        "binomialName": "Turdus obscurus",
+        "identification": "A long, slightly curving white eyebrow gives this species an elegant, sophisticated appearance. Typically keeps to cover on the ground and in mid-levels of trees but occasionally ventures into the open to feed, particularly during migration. Alert and quick to flush. Adult male has gray head, brown back, and orange belly. Females are brownish overall with more faded orange on the underparts. Breeds in eastern Siberian forests, typically in damp areas near water, or areas with dense understory. Winters in more open habitats, such as parks, but not as fond of open spaces as blackbirds. Well-spaced song phrases consist of rich warbling and ringing buzzy whistles. Also gives a high, piercing “tsssst!”",
+        "macaulayID": "76085301",
+        "url": "https://ebird.org/species/eyethr/JP-13"
+    },
+    "Long-eared Owl": {
+        "binomialName": "Asio otus",
+        "identification": "Medium-sized, rather slender owl with long \"ear\" tufts. Extensive range across Northern Hemisphere. North American birds are rather dark and coarsely marked, with pumpkin-colored face patches and yellow eyes. Eurasian populations are paler overall, especially on the face, and have reddish eyes. Strictly nocturnal; rarely seen foraging at dusk and dawn. Found in areas with a mix of dense cover for roosting, such as brushy thickets or conifer groves, and open spaces for hunting. Generally uncommon to rare and seldom-seen, but can gather in communal winter roosts with dozens of individuals (if you're lucky enough to find a roost, do not disturb the birds). Compare with Short-eared Owl. Typical vocalization is a single low “woop” repeated every few seconds; also gives a wide range of maniacal catlike screeches and doglike barks.",
+        "macaulayID": "83848141",
+        "url": "https://ebird.org/species/loeowl/JP-13"
+    },
+    "Eurasian Sparrowhawk": {
+        "binomialName": "Accipiter nisus",
+        "identification": "Fairly small, long-tailed hawk with broad, rounded wings (not pointed like kestrels). Soars occasionally, but more often seen in quick hunting flight chasing small birds, or perched quietly in shade. Note golden-yellow eyes, barred underparts (barring grayish on female, rusty on male). Juvenile brownish above through first year. Smaller and much less bulky than Northern Goshawk, and with horizontally barred instead of vertically striped underparts. Occurs in woodland, forest, farmland, and urban areas with hedges and wooded patches; sometimes hunts in gardens.",
+        "macaulayID": "154133151",
+        "url": "https://ebird.org/species/eurspa1/JP-13"
+    },
+    "Red-necked Stint": {
+        "binomialName": "Calidris ruficollis",
+        "identification": "A very small shorebird of both inland and coastal wetlands and estuaries. Breeding adult has vivid orange head bordered by dark stippling (no dark markings internal to the orange, unlike Little Stint) and bright orange and gold tones in upperwing coverts. Nonbreeding adult gray above, pale below; juvenile similar but richer gray-brown above with neat pale feather edges in upperparts. Flight call a high-pitched, raspy “krreeet.”",
+        "macaulayID": "60295321",
+        "url": "https://ebird.org/species/rensti/JP-13"
+    },
+    "Garganey": {
+        "binomialName": "Spatula querquedula",
+        "identification": "Small and often rather unobtrusive duck of wetlands with reedy and other fringing vegetation. Handsome male distinctive, with big white eyebrow on dark brown head, pale gray flanks; pale gray forewing striking in flight. Female very similar to female Green-winged Teal but head pattern more contrasting, with paler eyebrow, darker eyestripe, and unstreaked whitish throat. Breeds widely across Eurasia; winters in Africa and southern Asia. Migrants can be on more open water, even tidal mudflats. Associates readily with other ducks; feeds mainly by dabbling.",
+        "macaulayID": "150021041",
+        "url": "https://ebird.org/species/gargan/JP-13"
+    },
+    "Vega Gull": {
+        "binomialName": "Larus vegae",
+        "identification": "A large, sturdy gull of East Asia. Adults have a fairly pale gray back, pale eye, and dull pinkish legs. Takes four years for immatures to progress from mostly brown to fully white and gray adult plumage; intermediate plumages are often mottled and messy. Extremely variable plumage can make identification tricky. Occurs inland and along the coast, frequenting river mouths, harbors, beaches, lakes, and ponds. Often forms flocks with other gulls. Back color of adults generally a shade darker than that of American Herring Gull. Very similar to Mongolian Gull, and separation is tricky, but has a larger head and bill; adults also generally have pinker legs.",
+        "macaulayID": "31718911",
+        "url": "https://ebird.org/species/veggul1/JP-13"
+    },
+    "Black Kite": {
+        "binomialName": "Milvus migrans",
+        "identification": "Medium-sized, rather nondescript raptor with overall dark plumage. Varies considerably across range, but always note tail fork (can disappear when tail is fully open), and short head and neck. Juvenile averages paler and more contrastingly-marked. Flight style buoyant, gliding and changing direction with ease. Frequently forages in urban areas, rubbish dumps, aquatic habitats, and grassland, but usually avoids heavily forested areas. Sometimes solitary, but also gathers in large flocks on migration and at good feeding areas.",
+        "macaulayID": "25504811",
+        "url": "https://ebird.org/species/blakit1/JP-13"
+    },
+    "Owston's Tit": {
+        "binomialName": "Sittiparus owstoni",
+        "identification": "Small songbird found only in evergreen broadleaf forests on southern Izu Islands of Japan. Stunning in plumage, with deep rusty body, dark gray wings and tail, and black throat and crown patch. Formerly considered a large subspecies of Varied Tit, but note the much darker rusty face. Call similar to Varied but higher-pitched, with more frequent, forceful whistles between the nasal notes.",
+        "macaulayID": "206021151",
+        "url": "https://ebird.org/species/vartit4/JP-13"
+    },
+    "Gray-streaked Flycatcher": {
+        "binomialName": "Muscicapa griseisticta",
+        "identification": "Small and streaky flycatcher, with longer-winged appearance than Asian Brown and Dark-sided Flycatchers. Breeds in mixed and deciduous forest in lowlands and hilly regions. Dark brown above, white below, with distinct pale eyering and long, dark streaks below. Streaking can resemble the patterning of some Dark-sided Flycatchers but is more distinct, less smudgy-looking. Asian Brown Flycatcher shares the same general color scheme but is paler brown and lacks streaking.",
+        "macaulayID": "94984691",
+        "url": "https://ebird.org/species/gysfly1/JP-13"
+    },
+    "Dark-sided Flycatcher": {
+        "binomialName": "Muscicapa sibirica",
+        "identification": "Small brown flycatcher with dark smudging on the breast and sides that lend it a “vested” appearance. Tends to prefer higher-elevation forests for breeding than Asian Brown and Gray-streaked Flycatchers but uses a variety of open forests and gardens on migration and in winter. The generally darker appearance of this species when compared to Asian Brown makes the eyering more striking.",
+        "macaulayID": "231636971",
+        "url": "https://ebird.org/species/dasfly/JP-13"
+    },
+    "Greater White-fronted Goose": {
+        "binomialName": "Anser albifrons",
+        "identification": "Medium-sized goose with extensive range across the Northern Hemisphere. On adults note bright orange legs, white face, and variable amount of black splotching on belly. Bill color varies from orange to pinkish. Immatures lack white face and black on belly and have duller orange legs and bill. Superficially similar to domestic barnyard geese but smaller without the enormous pot-bellied appearance of domestic birds. Bill color is helpful to separate from both species of Bean-Goose and Pink-footed Goose. Also compare with very similar Lesser White-fronted Goose in Europe and Asia, which is smaller and more compact, and has a stubby bill and yellow eyering. Breeds in tundra and taiga habitats; winters in fields, agricultural areas, and wetlands. Usually found in flocks, sometimes mixed with other species of geese.",
+        "macaulayID": "36909271",
+        "url": "https://ebird.org/species/gwfgoo/JP-13"
+    },
+    "Little Bunting": {
+        "binomialName": "Emberiza pusilla",
+        "identification": "Small bunting with an attractive contrasting head pattern: black crown with red-brown central stripe and pale eyering. Rufous cheeks bordered by narrow black lines framing the eyes. In the nonbreeding season, less bright overall but white wingbars more conspicuous. Breeds in taiga forests and open tundra with scattered birches and willows, often near water; song is a pleasant two- or three-part series of bright, buzzy warbled notes. Winters in various open habitats, including fields, brushy roadside ditches, and gardens. Often attracts attention by its sharp clicking \"zick\" call note.",
+        "macaulayID": "43162991",
+        "url": "https://ebird.org/species/litbun/JP-13"
+    },
+    "Amur Stonechat": {
+        "binomialName": "Saxicola stejnegeri",
+        "identification": "A chunky little bird found in a wide variety of open landscapes, often sitting on exposed perches. Breeding male has a black head, a broad white half-collar, mostly rusty-red underparts, and a white undertail and rump. Non-breeding male is patchier, with a paler head and chest. Female is predominantly streaky brown above and pale below, with a small white patch on the wing but no strongly contrasting pattern on the face. Siberian Stonechat is extremely similar, and in areas of overlap, or in cases of vagrancy, most individuals are inseparable based on current knowledge. Amur Stonechat typically shows slightly less white on the rump.",
+        "macaulayID": "293009251",
+        "url": "https://ebird.org/species/stonec7/JP-13"
+    },
+    "Sharp-tailed Sandpiper": {
+        "binomialName": "Calidris acuminata",
+        "identification": "Medium-sized sandpiper with distinct cap. Breeding adults are heavily marked with chevrons and spots on the underparts and have a rich chestnut cap and white eyeing. Nonbreeding adults are duller grayish-brown with a drab brown cap. Juveniles are brightest, with a plain buffy breast, bright cap, and contrasting white eyeline. At all ages, note dull greenish legs and variable paler color at the base of the bill. Similar to Pectoral Sandpiper, but Sharp-tailed is usually brighter (breeding adults and juveniles especially) and lacks a sharp demarcation between streaked breast and white belly. Primarily an Asian species, breeding on tundra in Russia and wintering to Australia and New Zealand. Regular migrant in Alaska; rare to Pacific coast of U.S. and Canada. Found in freshwater marshes and coastal mudflats, sometimes inland. Listen for excited “peep!” calls, often doubled, and other soft twitters.",
+        "macaulayID": "620132380",
+        "url": "https://ebird.org/species/shtsan/JP-13"
+    },
+    "Common Kingfisher": {
+        "binomialName": "Alcedo atthis",
+        "identification": "Beautiful little blue-and-orange bird with a long, pointed bill. Often rather shy and inconspicuous despite bright plumage. Found along rivers, streams, lakes, and ponds—almost any fresh or brackish habitat with small fish. Often perches quietly in trees over water; most often seen in very fast low flight as a turquoise flash over the water, usually flying away. Easily detected once its high, shrill whistled call is learned, even if the bird itself is hidden. The only small blue kingfisher over much of its range.",
+        "macaulayID": "26854431",
+        "url": "https://ebird.org/species/comkin1/JP-13"
+    },
+    "Common Cuckoo": {
+        "binomialName": "Cuculus canorus",
+        "identification": "Found in woodland, heathland, farmland with hedges, marshes with scattered bushes. \"COO-koo\" song (like a cuckoo clock) often given from open perch. Note long wings and tail, barred belly, rather small bill. Flight direct and often low, suggesting a hawk or falcon. Extremely similar in appearance to various other Cuculus cuckoos across its range; note the combination of white vent, staring yellow irises, and overall large size. Lays eggs in nests of other birds, particularly pipits and reed warblers, which raise the young cuckoos.",
+        "macaulayID": "39678671",
+        "url": "https://ebird.org/species/comcuc/JP-13"
+    },
+    "Lesser Black-backed Gull": {
+        "binomialName": "Larus fuscus",
+        "identification": "Slender, long-winged gull, slightly smaller than Herring Gull. Adults show dark gray back and yellow legs; in winter note fairly heavy streaking on head and neck. Takes four or five years to reach adult plumage; immatures can be difficult to distinguish from other gulls, especially Herring. On first- or second-year birds, look for contrastingly whitish head with dark smudge around the eye, long wings, dark bill, whitish rump and tail base, and evenly dark wings in flight. Can be found around any body of water but prefers beaches and flats. Often with flocks of other large gulls. Common in Eurasia, wintering to Africa and Southeast Asia. Population in North America has increased dramatically in the last couple decades; now regular (even fairly common!) on the Atlantic coast, rarer inland and farther west.",
+        "macaulayID": "265452641",
+        "url": "https://ebird.org/species/lbbgul/JP-13"
+    },
+    "Common Merganser": {
+        "binomialName": "Mergus merganser",
+        "identification": "Large duck with a sleek body and thin red bill. Breeding males have a dark green head and mostly white body with peachy blush on underparts. Females and immature males have rusty brown head and gray bodies with a cleanly demarcated white throat. Feeds in rivers, lakes, and large ponds by diving to catch fish. Hardy in winter, often staying as far north as open water permits.",
+        "macaulayID": "51564761",
+        "url": "https://ebird.org/species/commer/JP-13"
+    },
+    "Eastern Red-rumped Swallow": {
+        "binomialName": "Cecropis daurica",
+        "identification": "Brightly-colored swallow with a deeply forked tail, pale orangish rump, black squared-off undertail coverts, and an incomplete orange collar. The underparts are always streaked, though there is geographical variation, with streaks ranging from fine and sparse to thick and heavy. Juveniles average paler and lack extensive orangish tones; may resemble house-martins but note deeply forked tail. Builds mud nests on mountains, cliffs, and on human structures. Forages over open areas. Frequently gives a short, sparrow-like “twi’wit.” Usually separated from European Red-rumped Swallow by range, but in case of any overlap, should be separated by much heavier streaking on underparts.",
+        "macaulayID": "495042991",
+        "url": "https://ebird.org/species/y00621/JP-13"
+    },
+    "Gray-faced Buzzard": {
+        "binomialName": "Butastur indicus",
+        "identification": "Long-winged raptor, often seen in large kettles on migration. Breeds in montane forests, where its strident two-note whistle is often heard. Adult is brown with a spotted belly, a clean white throat bordered by two black streaks and distinct white eyebrow. Juvenile is more extensively white on the head and belly, with brown upperparts sometimes blotched with white. Can be confused with Oriental Honey-Buzzard but head proportionately larger, wings narrower, and barring on the wings weaker.",
+        "macaulayID": "90947601",
+        "url": "https://ebird.org/species/gyfbuz1/JP-13"
+    },
+    "Azure-winged Magpie": {
+        "binomialName": "Cyanopica cyanus",
+        "identification": "A sleek, long-tailed crow relative--social, highly vocal, and conspicuous in parks, gardens, orchards, riparian areas, and forests. All plumages unmistakable, with black crown, brown back, pale gray belly, and powder-blue wings and tail. Gives raucous, screeching calls as it moves about and is often heard before it is seen.",
+        "macaulayID": "84174541",
+        "url": "https://ebird.org/species/azwmag2/JP-13"
+    },
+    "Black Drongo": {
+        "binomialName": "Dicrurus macrocercus",
+        "identification": "An adaptable songbird of open areas such as farmland, forest edge, meadows, wetlands, and fields and a common sight as a familiar dark silhouette perched on wires, fences, or snags. Black plumage flashes blue and green iridescence in favorable light, though much less so than in Hair-crested or Bronzed Drongo. A pugnacious species, frequently chasing away larger birds with repeated dives and harsh chattering calls. A skilled mimic of other species, and a strong songster in general, delivering a wide range of pleasant fluty calls, harsh chattering, nasal notes, and high sharp whistles.",
+        "macaulayID": "88495001",
+        "url": "https://ebird.org/species/bladro1/JP-13"
+    },
+    "Kentish Plover": {
+        "binomialName": "Anarhynchus alexandrinus",
+        "identification": "Small, pale plover with broken black collar, sandy upperparts, grayish legs, and rather fine black bill. Breeding plumage has black mask and black tabs at sides of breast (not a complete band). Nonbreeding plumages have black replaced by brown. Mainly coastal, on sandy beaches, dry mudflats, and at salt ponds, usually near water; also locally inland. Migrants will join with flocks of other shorebirds.",
+        "macaulayID": "44590901",
+        "url": "https://ebird.org/species/kenplo1/JP-13"
+    },
+    "Eurasian Hobby": {
+        "binomialName": "Falco subbuteo",
+        "identification": "Streamlined long-winged falcon. Note gray upperparts with plain tail, boldly streaked underparts with rusty leggings and vent. Swift-like; flight more graceful and aerodynamic than Eurasian Kestrel. Compare with larger, stockier, shorter-tailed Peregrine Falcon. Favors open woodland, heathland, and farmland with stands of trees; often hunts over nearby water bodies and marshes. Hunts in the air, catching dragonflies, swallows, and other birds, which it sometimes eats on the wing.",
+        "macaulayID": "205735971",
+        "url": "https://ebird.org/species/eurhob/JP-13"
+    },
+    "Eurasian Woodcock": {
+        "binomialName": "Scolopax rusticola",
+        "identification": "This bizarre and cumbersome-looking relative of the snipes is fairly common but rarely seen; active mainly at dusk and dawn. Favors damp leafy ground in forest and woodland, but comes out at night to feed in damp pastures. When flushed, flies off quickly and usually silently from close range, a little like a small grouse. Note fat body and long bill; plumage less boldly striped than smaller and slimmer snipes. At dusk in spring, males do flight patrols of their territory and can be seen as silhouettes against the evening sky, giving a distinctive but odd-sounding call.",
+        "macaulayID": "42407851",
+        "url": "https://ebird.org/species/eurwoo/JP-13"
+    },
+    "Whiskered Tern": {
+        "binomialName": "Chlidonias hybrida",
+        "identification": "Small buoyant tern. Breeding adult has distinctive dark smoky gray body and contrasting white cheeks (can look like broad white \"whiskers\" in flight) underneath a black cap. Nonbreeding plumage pale silvery gray overall with a faded shadow of the cap; juvenile has dark-checkered back. Note rather stout bill (albeit thinner than Gull-billed Tern) and square tail; compare to Common, Roseate, and Arctic Terns. Feeds by picking from surface, not splash-diving like typical terns. Common around wetlands, lakes, and rivers.",
+        "macaulayID": "30334171",
+        "url": "https://ebird.org/species/whiter2/JP-13"
+    },
+    "Black-tailed Godwit": {
+        "binomialName": "Limosa limosa",
+        "identification": "Gregarious medium-sized wader with a long, slightly uptilted bill. Note the very long, pink-based bill. Breeding plumage has bright rusty head and breast, dark barring on belly; nonbreeding plumage has rather plain grayish head, breast, and upperparts, unlike streaked breast and back of Bar-tailed Godwit. In flight shows bold white wing stripe, white rump, and black tail. Fairly common but often local; breeds in grassy wetlands, and found year-round in fresh and brackish marshes, and on adjacent tidal flats. Feeds mainly by wading in deep water, probing with its long bill.",
+        "macaulayID": "35830281",
+        "url": "https://ebird.org/species/bktgod/JP-13"
+    },
+    "Eastern Yellow Wagtail": {
+        "binomialName": "Motacilla tschutschensis",
+        "identification": "Attractive ground-dwelling bird. Slender and long-tailed, bright yellow below with paler throat and grayish-olive back; extremely variable. Tail is black with white outer feathers; often pumps tail up and down while walking on the ground. Young birds lack yellow color, but have distinctive head pattern. Often seen near water. Listen for high-pitched, piercing call note. Common breeder on Arctic tundra from Alaska to Russia; found in grassy and waterside habitats in Southeast Asian wintering grounds and in migration.",
+        "macaulayID": "31127191",
+        "url": "https://ebird.org/species/eaywag/JP-13"
+    },
+    "White-shouldered Starling": {
+        "binomialName": "Sturnia sinensis",
+        "identification": "Sturdy songbird of open farmlands and fields; can often be found fairly close to human habitation. Adult male has soft brown head and breast, bluish bill, and white belly. Female darker, with dirty brown extending from the head down to the back and belly. Both sexes have white rumps, black flight feathers, and bright white wing coverts. Often found in large flocks with other starlings. Notably smaller and stouter than many of the other starlings in its range.",
+        "macaulayID": "57711951",
+        "url": "https://ebird.org/species/whssta2/JP-13"
+    },
+    "Japanese Sparrowhawk": {
+        "binomialName": "Tachyspiza gularis",
+        "identification": "Typical Accipiter hawk. Adult slaty gray above and finely barred with brownish orange below. Smaller and more compact-looking than Eurasian Sparrowhawk. Soaring adults can be distinguished from Chinese Sparrowhawk by the lack of dark wingtips and striped (instead of solidly pale) underwings. In all plumages, heavily marked underwing coverts distinguish this species from Chinese Sparrowhawk. Breeds in a variety of forested hill and lowland habitats; wintering birds can also be found in more open habitats, such as forest edge and fields.",
+        "macaulayID": "89357391",
+        "url": "https://ebird.org/species/japspa1/JP-13"
+    },
+    "Bull-headed Shrike": {
+        "binomialName": "Lanius bucephalus",
+        "identification": "A small, brightly colored shrike of forest edges and lightly forested fields and gardens. Adult male has pale-bordered black mask, mostly gray back and wings, blackish tail, and warm orange crown, nape, and wash on sides (worn birds less brightly colored). Female has brown back, less obvious mask, rusty crown and nape, and light barring below. Juvenile similar to adult female but lacks pale border around mask. Compared to juvenile Brown Shrike, Bull-headed has warmer orange tones, larger bill, and weaker mask. Song a harsh, raspy collection of notes (including imitations); call is a staccato chatter.",
+        "macaulayID": "26855281",
+        "url": "https://ebird.org/species/buhshr1/JP-13"
+    },
+    "Oriental Cuckoo": {
+        "binomialName": "Cuculus optatus",
+        "identification": "Typical gray cuckoo, indistinguishable from Himalayan Cuckoo in the field by plumage. Dark bands on the breast average broader in Oriental. Both also extremely similar to Common and Lesser cuckoos, but with buffy rather than white vent. Brownish-yellow iris readily distinguishes Oriental from the smaller, darker-eyed Lesser Cuckoo. Best identified by song, a mellow series of “boop-boop” notes, given in flight or from a high (often concealed) perch. When not singing, quiet and unobtrusive, foraging solitarily in upper and middle levels of boreal forest and mixed woodlands.",
+        "macaulayID": "145296971",
+        "url": "https://ebird.org/species/oricuc2/JP-13"
+    },
+    "Oriental Honey-buzzard": {
+        "binomialName": "Pernis ptilorhynchus",
+        "identification": "A large raptor of lowland and montane broadleaf and mixed forests, this species is well-known for its tendency to congregate in large flocks of up to thousands during migration. Resident populations inhabit tropical forests from lowlands up into montane areas. While showing considerable plumage variation throughout its range, the combination of an unusually small and slender head, long striped tail, broad wings, and well-striped underwings make this species fairly recognizable across a wide area. True to its name, this species is a raider of wasp and bee nests, although it prefers bee and wasp larvae over their honey.",
+        "macaulayID": "547178171",
+        "url": "https://ebird.org/species/orihob2/JP-13"
+    },
+    "Terek Sandpiper": {
+        "binomialName": "Xenus cinereus",
+        "identification": "Unique smallish wader with stumpy bright orange legs and a noticeably upturned bill. Plumage gray overall with white belly, but in flight shows conspicuous white trailing edge to wings. Breeds in valley floodplains in tundra and taiga. In the non-breeding season, occurs singly or in flocks in varied wetland habitats, from fresh marshes to tidal mudflats, and often apart from other shorebirds. Feeds by dashing after insects and also by probing bill in mud, like a mini-godwit.",
+        "macaulayID": "62995211",
+        "url": "https://ebird.org/species/tersan/JP-13"
+    },
+    "Great Knot": {
+        "binomialName": "Calidris tenuirostris",
+        "identification": "Medium-sized, stocky shorebird found almost exclusively on coastal mudflats during migration, seldom inland. Distinctive adult in breeding plumage has a brick-orange upperwing patch, blackish back, and chest with black mottling. Duller nonbreeding and juvenile plumages are grayish brown above, white below, with grayish mottling in neck and upper breast. Smaller Red Knot much paler in nonbreeding plumage and has shorter bill. Flight call a sharp, whistled “kweet-kweet.”",
+        "macaulayID": "433741021",
+        "url": "https://ebird.org/species/grekno/JP-13"
+    },
+    "Black-tailed Gull": {
+        "binomialName": "Larus crassirostris",
+        "identification": "A distinctly long-winged, long-billed gull of the East Asian coastline, breeding in Russia and Japan and wintering as far south as Taiwan and southeastern China; rare in Southeast Asia. Adult is dark-winged with a black and red tipped bill. Younger birds are dark overall with solid black wingtips, a flashing white rump, and a pale pink bill with a solid black tip. Gathers in large flocks throughout the year. Flight is more buoyant and graceful than other similarly sized gulls. Call reminiscent of a meowing cat.",
+        "macaulayID": "76327001",
+        "url": "https://ebird.org/species/bktgul/JP-13"
+    },
+    "Ruddy-breasted Crake": {
+        "binomialName": "Zapornia fusca",
+        "identification": "Small, chickenlike inhabitant of marshes, vegetated river edges, ditches, wet croplands, sometimes dry fields. Brown above, with orange from lower cheek to lower breast. Similar to Band-bellied Crake, but more brightly colored and lacks white wing markings. Retiring and difficult to see but not uncommon in some locations. Most often detected by song, an accelerating series of beeping notes, given from cover in early morning and evening.",
+        "macaulayID": "52738491",
+        "url": "https://ebird.org/species/rubcra1/JP-13"
+    },
+    "Sanderling": {
+        "binomialName": "Calidris alba",
+        "identification": "Small, sprightly shorebird. Breeding plumage shows rusty tones on upperparts, often with a frosty appearance when fresh. By mid-summer, the frosty feather tips fade away and the neck can be deep, rich red—not to be confused with the much smaller Red-necked Stint! Very pale in winter. Juveniles are nearly spangled with black-and-white above. At all seasons, note larger size and somewhat thicker bill than other peeps or stints, along with bold white wing stripe in flight. Flocks are usually seen on open beaches, well known for running back-and-forth chasing waves and feeding actively in the sand. Also occurs on mudflats, especially in migration. Extensive global range, breeding on high Arctic tundra and wintering on coastlines on every continent except Antarctica.",
+        "macaulayID": "51358281",
+        "url": "https://ebird.org/species/sander/JP-13"
+    },
+    "Long-toed Stint": {
+        "binomialName": "Calidris subminuta",
+        "identification": "Tiny and slender “peep” of inland and coastal wetlands, where it is often found in well-vegetated areas such as fields and flooded meadows. Unlike most other small sandpipers in the region, this species has a distinctly long-winged and slender-bodied appearance. Breeding adult and juvenile recall much larger Sharp-tailed Sandpiper in pattern and color; nonbreeding adult rather plain mousy brown above, pale below. Note that long toes project slightly beyond tail in flight, unlike other stints. Flight call a quiet “prrrrp” similar to Curlew Sandpiper.",
+        "macaulayID": "98468741",
+        "url": "https://ebird.org/species/lotsti/JP-13"
+    },
+    "Great Crested Tern": {
+        "binomialName": "Thalasseus bergii",
+        "identification": "A large elegant tern with a very long lemon-yellow bill. Black cap does not extend down to the bill. Juvenile is scaly-looking with much more black on the back and wings. Similar Lesser Crested Tern is smaller with black cap extending down to the bill in breeding plumage. Occurs along coasts and estuaries; very rarely further inland or on freshwater ponds/lagoons.",
+        "macaulayID": "61788221",
+        "url": "https://ebird.org/species/grcter1/JP-13"
+    },
+    "Ruff": {
+        "binomialName": "Calidris pugnax",
+        "identification": "A bizarre and unique shorebird. Medium-sized with fairly short, slightly drooped bill. Leg color varies from dull greenish to bright orange; bill can be entirely dark or mostly orange. Plumage highly variable, especially breeding males, which have fancy neck ruffs that can be black, white, buffy, reddish-brown, or any combination thereof. Females and nonbreeding birds can be confusing, usually plain grayish-brown overall, sometimes with blotchy markings on the neck and belly. Juveniles are bright buffy with neat scaly patterning on the upperparts. Flight often rather lazy, with deep floppy wingbeats; note white underwings, white sides to rump, and feet projecting well past tail. Males are much larger than females. Breeds in bogs and wet grassy meadows across northern Eurasia; winters mainly in Africa but also across India and Southeast Asia. Migrants occur in almost any wetland habitat, from reservoirs and fields to coastal mudflats. Feeds by probing and picking, often while in shallow water. Rare but regular vagrant to North America, usually single birds found among flocks of yellowlegs.",
+        "macaulayID": "98650201",
+        "url": "https://ebird.org/species/ruff/JP-13"
+    },
+    "Pectoral Sandpiper": {
+        "binomialName": "Calidris melanotos",
+        "identification": "Beefy, medium-sized sandpiper. Brown-toned overall with yellowish legs. Slightly curved bill pale at base. Look for dense breast streaking with abrupt border at white belly. Males are much larger than females, and have a large air sac in the throat which they inflate during breeding display. Plumage and yellow legs might recall Least Sandpiper, but Pectoral is much larger and looks longer-necked. Compare with Sharp-tailed Sandpiper, which is brighter overall and has a more distinct dark cap. Breeds on tundra in the high Arctic. Winters mainly in southern South America, but small numbers also winter in Southeast Asia, Australia, and New Zealand. Typically seen in small flocks in muddy marshes or wet grassy habitats, sometimes mixed with other shorebirds. Much less common on open mudflats or beaches. Listen for low, trilled calls.",
+        "macaulayID": "31723701",
+        "url": "https://ebird.org/species/pecsan/JP-13"
+    },
+    "Black Paradise-Flycatcher": {
+        "binomialName": "Terpsiphone atrocaudata",
+        "identification": "Graceful songbird of well-shaded forests, particularly stream gullies; often in more open habitat in migration. Stunning breeding male purplish-black above and white below, with a short crest, neon-blue eyerings, and long black tail streamers. Female and non-breeding male have dark gray head and chest, paler eyering, shorter crest, and chestnut-brown wings and tail, without streamers. Compare with female and non-breeding male Amur and Blyth’s paradise-flycatchers, with which Black overlaps on its Southeast Asian wintering grounds. Note Black’s contiguous dark gray throat and chest (Amur has a more sharply-demarcated black throat and gray chest), dull darkish wings (Blyth’s has brighter rufous wings), and fairly clean demarcation between gray breast and white belly (Blyth’s has a more gradual fade). Song a run-on series of coarse whistles; call a rough, nasal “bee.”",
+        "macaulayID": "97475161",
+        "url": "https://ebird.org/species/japfly1/JP-13"
+    },
+    "Green Sandpiper": {
+        "binomialName": "Tringa ochropus",
+        "identification": "Dark brown sandpiper with a snowy white belly; in flight looks black above with boldly contrasting white rump. Bobs tail when nervous, but not habitually like Common Sandpiper. Often climbs steeply when flushed and flies quickly with deep wingbeats, swooping around a little like a swallow. Breeds in clearings and marshes in wet forest and woodland; migrants occur in fresh and brackish wetland habitats, especially on muddy shores of lakes and small ponds. Mainly found as singles or small groups, not mixed with other species.",
+        "macaulayID": "22248421",
+        "url": "https://ebird.org/species/grnsan/JP-13"
+    },
+    "Slaty-backed Gull": {
+        "binomialName": "Larus schistisagus",
+        "identification": "Thickset, short-winged, pot-bellied gull. Adult has dark gray back and wings, intense pink legs, and an especially large white “crescent” (white tertial edges) near the wingtips when perched. Breeding adult white-headed; nonbreeding birds have variably heavy brown streaking on the head and upper breast. Takes four years for immatures to progress from mostly brown to fully white and gray adult plumage; intermediate plumages are often mottled and messy. Often looks rather frosty by the first winter; starts to develop a gray back and whitish eye in its second year. Primarily an Asian species, found in coastal regions from Japan and South Korea to Russia. Regularly occurs in western Alaska, but very rare elsewhere in North America.",
+        "macaulayID": "31718891",
+        "url": "https://ebird.org/species/slbgul/JP-13"
+    },
+    "Eurasian Hoopoe": {
+        "binomialName": "Upupa epops",
+        "identification": "Utterly unmistakable orange bird with a zebra-striped wings, a Chinese fan of a crest (usually held closed, but often raised just after landing), and a rapier of a bill. Favors semiopen habitats such as heathland, farmland, orchards, grassy lawns, where it feeds on the ground, probing with its long bill for insects. Flight fast and fairly direct, with rather deep wingbeats. Unlikely to be confused, but flight pattern and round wings may loosely resemble that of woodpeckers; note far longer and thinner bill. Song is a distinctive “hoopoopoo.”",
+        "macaulayID": "40358641",
+        "url": "https://ebird.org/species/hoopoe/JP-13"
+    },
+    "Rose-ringed Parakeet": {
+        "binomialName": "Psittacula krameri",
+        "identification": "Vibrantly bright green parakeet, frequently found in woodland, parks, and gardens, where it feeds mainly in trees. Nests in cavities, including holes in buildings. Easily overlooked if quiet, as the bright green plumage blends easily with foliage. Note the very long slender tail and bright red bill; male has narrow black-and-pink neck ring. Closely resembles the larger Alexandrine Parakeet, which has a wine-red patch on each shoulder. Like other parakeets, raucous and social, often appearing in noisy groups giving sharp screeching calls. Native to Africa and South Asia, introduced locally around the world, from Europe and the Caribbean to Japan and Hawaii.",
+        "macaulayID": "612071416",
+        "url": "https://ebird.org/species/rorpar/JP-13"
+    },
+    "Swinhoe's Storm-Petrel": {
+        "binomialName": "Hydrobates monorhis",
+        "identification": "Medium-sized storm-petrel found primarily in the Pacific. Dark brown overall, with buffy carpal bars in upperwing and noticeable white primary shafts at close range. Tristram's and Matsudaira's are similar but noticeably larger (apparent with experience); dark-rumped Leach’s Storm-Petrel very similar but lacks white primary shafts, flies more erratically, on sharply crooked wings. Flight is often relaxed, on wings often held out farther from the body than in Leach’s. Inhabits deepwater areas but occasionally seen near shore during or after storms.",
+        "macaulayID": "213711431",
+        "url": "https://ebird.org/species/swspet/JP-13"
+    },
+    "Nazca Booby": {
+        "binomialName": "Sula granti",
+        "identification": "Large seabird, very similar to Masked Booby. Long and pointy on all ends: wings, tail, and bill. Adults mostly gleaming white with black flight feathers and face; note pinkish-orange (not yellow) bill to help separate from adult Masked. Young birds darker overall with brown head contrasting with white belly and dirty brown markings on underwings; very similar to young Masked or even adult Brown Booby. Found in the Pacific Ocean from Mexico to Peru where it feeds on fish; breeds on rocky islands, especially the Galapagos.",
+        "macaulayID": "38036081",
+        "url": "https://ebird.org/species/nazboo1/JP-13"
+    },
+    "House Swift": {
+        "binomialName": "Apus nipalensis",
+        "identification": "Medium-sized dark swift with small white throat patch and rump patch. Commonly nests in building and cave crevices and often seen in small flocks over valleys, cities, and forests. Plumage pattern is similar to Pacific Swift, which has darker throat and very different shape, with longer, more pointed wings and long, sharply forked tail. White plumage patches distinguish it from Aerodramus swiftlets. Gives a high-pitched, twittering trill.",
+        "macaulayID": "137602641",
+        "url": "https://ebird.org/species/houswi1/JP-13"
+    },
+    "Medium Egret": {
+        "binomialName": "Ardea intermedia",
+        "identification": "A stocky egret that is larger than Eastern Cattle and Little Egrets, but smaller than the Great Egret. Often confusing and difficult to identify, this bird is truly intermediate between potential confusion species. Things to look for include a yellow bill that is shorter than Great Egret but longer than Eastern Cattle Egret, a relatively rounded head, and shorter legs than Great Egret, approaching Eastern Cattle Egret. Like most egret species, associates with all types of water bodies including wet fields, often flocking with other egrets.",
+        "macaulayID": "475731221",
+        "url": "https://ebird.org/species/integr1/JP-13"
+    },
+    "Chinese Egret": {
+        "binomialName": "Egretta eulophotes",
+        "identification": "Medium-sized white egret. Breeding adult has bright blue loral skin, a pinkish-orange bill, and long frilly plumes on the head, neck, and back. Nonbreeding adult lack plumes and has dull greenish legs and bill. Nonbreeding birds can be confused with Little Egret, but note Chinese Egret's thicker bill, proportionally stouter legs, orangish base to the bill, and dark lores with a shallow crook between eyes and bill. Light morph of Pacific Reef-Heron may also be similar, but average much thicker-billed and thicker-legged than Chinese. Moves between craggy islands and coastlines when breeding; winters in mangroves, estuaries, and mudflats.",
+        "macaulayID": "97061821",
+        "url": "https://ebird.org/species/chiegr/JP-13"
+    },
+    "Eurasian Moorhen": {
+        "binomialName": "Gallinula chloropus",
+        "identification": "Distinctive dark waterbird that resembles a cross between a duck and a chicken. Adults have a bright red bill with a yellow tip, while immatures have a duller bill and legs. Note big white oval patches under the tail, and white streaks along the flanks. Inhabits fresh and brackish marshes, on ponds, lakes, and along slow-moving watercourses with bordering vegetation. Smaller and more retiring than coot, and rarely far out on open water. Swims with jerky motion and walks with stealthy gait, the tail often slightly cocked; does not usually dive. Gives a variety of loud, somewhat frog-like calls.",
+        "macaulayID": "610959814",
+        "url": "https://ebird.org/species/commoo3/JP-13"
+    },
+    "Greater Sand-Plover": {
+        "binomialName": "Anarhynchus leschenaultii",
+        "identification": "Medium-sized plover with a long hefty bill. Breeding adults have a dark mask and orangish chest, neck, and forehead; females duller than males. Non-breeding birds and immatures are sandy brown above and white below, with a white throat and “eyebrows.” Often confused with Lesser Sand-Plover, and best distinguished when both present; look for larger size, heavier and longer bill, paler legs, and larger-headed appearance. Additionally, unlike some Lesser Sand-Plovers, Greater never has a black boundary around the throat. Breeds in high-elevation areas, where it favors arid, open habitats, sometimes near water. Winters on coastal mudflats and estuaries.",
+        "macaulayID": "89710361",
+        "url": "https://ebird.org/species/grsplo/JP-13"
+    },
+    "Gray Heron": {
+        "binomialName": "Ardea cinerea",
+        "identification": "Generally quite common and conspicuous in wetland habitats from marshes and tidal flats to small ponds, ditches, and wet fields; nests colonially in tall trees. Mainly seen as singles or in small groups, standing quietly in or at the edge of water, less often hunting in fields. Plumage mostly gray overall, with paler neck; adult has white crown, black eyebrows, and black shoulder patch. Like other herons and egrets, flies with neck pulled in to form a bulge.",
+        "macaulayID": "109008531",
+        "url": "https://ebird.org/species/graher1/JP-13"
+    },
+    "Siberian Sand-Plover": {
+        "binomialName": "Anarhynchus mongolus",
+        "identification": "Medium-sized plover with a pale throat, brown back, and white belly. Breeding adults have a black mask, white forehead, and a bright orange chest and neck; males average brighter than females. Non-breeding and immature birds are brownish above and white below, with a variable white forehead and eyebrow. Compare with slightly larger Greater Sand-Plover; Siberian is proportionally smaller-headed and darker-legged, and its shorter bill has a slight bulge at the tip. Smaller Kentish Plover can be similar in non-breeding plumage; Siberian is taller and longer-legged, without Kentish’s strong white neck band. Very difficult to distinguish from Tibetan Sand-Plover, especially nonbreeding and immature birds, though identification can often be presumed by range. In breeding plumage, note the less extensive black mask of Siberian, usually with a white spot on the forehead. In nonbreeding plumage, look for a generally stronger breast band and faint brown markings on the flanks in Siberian. In areas of overlap many birds best left unidentified. Breeds mainly in Russian Far East; winters on coastal mudflats and beaches from Taiwan to Australia.",
+        "macaulayID": "217179611",
+        "url": "https://ebird.org/species/lessap2/JP-13"
+    },
+    "Wood Sandpiper": {
+        "binomialName": "Tringa glareola",
+        "identification": "Medium-sized brownish wader with a white belly, varied pale spotting and spangling on back. In flight shows plain upperwings, square white rump patch. Legs greenish yellow. Breeds in bogs and marshes in open coniferous and mixed forests. Migrants and wintering birds occur in varied wetland habitats, especially with grassy and other vegetation cover. Walks in shallow water, picking with its bill. Mainly found as singles or small flocks, not mixed with other species. Bobs tail when nervous, but not habitually like Common Sandpiper.",
+        "macaulayID": "206669001",
+        "url": "https://ebird.org/species/woosan/JP-13"
+    },
+    "Barn Swallow": {
+        "binomialName": "Hirundo rustica",
+        "identification": "A fairly large, colorful swallow. Usually easy to identify with its long, forked tail and dark rump. Iridescent navy-blue above with a rich orange throat and forehead. Underparts vary across range, from bright buffy-orange to whitish. Occurs in any open habitat, especially large fields and wetlands. Often seen foraging in flocks, sometimes mixed with other species of swallow. Typically nests close to human habitation; builds a muddy cup nest in a barn or under a dock. Listen for dry, scratchy “svit svit” calls. Note head and breast pattern and tail length to help separate from various similar species in Africa, Asia, and Australia (e.g., Welcome Swallow, Angolan Swallow, Pacific Swallow).",
+        "macaulayID": "227073431",
+        "url": "https://ebird.org/species/barswa/JP-13"
+    },
+    "White Tern": {
+        "binomialName": "Gygis alba",
+        "identification": "A medium-sized tern with entirely white plumage, a slightly forked tail, and glittering inky pools for eyes. The bill is black with a blue base. Graceful and buoyant in flight. Breeds in trees and both natural and artificial ledges on coral islands. Sometimes flies very high in pairs or trios. Often seen offshore from boats, though most frequently encountered foraging over inshore waters.",
+        "macaulayID": "42169701",
+        "url": "https://ebird.org/species/whiter/JP-13"
+    },
+    "Red-tailed Tropicbird": {
+        "binomialName": "Phaethon rubricauda",
+        "identification": "A medium-sized, mostly white seabird with a red beak. The long red tail streamers can be difficult to see at a distance. Rarely seen inland. At sea usually flies high above the water. Pairs and groups perform backward-wheeling courtship displays while giving loud squawks. Larger and heavier-bodied than White-tailed Tropicbird.",
+        "macaulayID": "157953371",
+        "url": "https://ebird.org/species/rettro/JP-13"
+    },
+    "Oriental Turtle-Dove": {
+        "binomialName": "Streptopelia orientalis",
+        "identification": "A dove with attractive plumage: rufous-scaled scapulars and wing coverts, dusky underparts, and a black-and-white striped patch on the side of its neck made of silver-tipped feathers. There is a considerable variation in plumage in different subspecies. The southernmost populations are resident while the others migrate down south during winter. Breeds in open lowland woods and copses with rich undergrowth. Rather shy and keep well hidden in the tree canopy. Call is two hoarse notes followed by two clear notes \"hr-hr oo-oo.\"",
+        "macaulayID": "51836521",
+        "url": "https://ebird.org/species/ortdov/JP-13"
+    },
+    "Black-winged Petrel": {
+        "binomialName": "Pterodroma nigripennis",
+        "identification": "A small petrel with relatively long, broad wings. The underwings appear darker than in most other small petrels because of the wide black margin around the edges of the wings and a broad black diagonal bar on the inner wing. Migrates through Hawaiian waters, usually from spring through fall. Regularly seen offshore from boats, occasionally from shore.",
+        "macaulayID": "170869981",
+        "url": "https://ebird.org/species/bkwpet/JP-13"
+    },
+    "White-necked Petrel": {
+        "binomialName": "Pterodroma cervicalis",
+        "identification": "A large petrel with long wings and a long, thick bill. The dark “M” pattern on the wings contrasts with the gray back. The underwings are mostly white. Similar to Juan Fernandez Petrel, but the black cap is separated from the gray back by a broad white collar. Migrates through Hawaiian waters. mostly from the late summer through spring. Rare in Hawaii, but observed more often in the western end of the Archipelago.",
+        "macaulayID": "91148521",
+        "url": "https://ebird.org/species/whnpet/JP-13"
+    },
+    "Brown Noddy": {
+        "binomialName": "Anous stolidus",
+        "identification": "Dark-bodied tern of tropical offshore waters, rarely seen from mainland. Breeds in colonies on rocky and sandy offshore islets. Sometimes found with offshore feeding flocks of boobies and other terns. Feeds by picking from the surface, not plunge-diving like most terns. Adult solidly dark brown with white cap. White limited to the forehead on immature.",
+        "macaulayID": "34482701",
+        "url": "https://ebird.org/species/brnnod/JP-13"
+    },
+    "Bannerman's Shearwater": {
+        "binomialName": "Puffinus bannermani",
+        "identification": "A small black-and-white shearwater with relatively broad wings and a long rounded tail. Underwing very white, contrasting with darker smudgy marks along the leading edge of the wing. Two dark smudge marks are often visible at the collar, extending down from the hood. Somewhat similar to Bryan’s Shearwater, but much larger, and white does not extend above the eye, creating a darker-faced appearance. Also lacks the distinctive rapidly fluttering flight of Bryan’s.",
+        "macaulayID": "205935501",
+        "url": "https://ebird.org/species/troshe4/JP-13"
+    },
+    "Yellow Bittern": {
+        "binomialName": "Botaurus sinensis",
+        "identification": "Very small heron of marshy, well-vegetated water bodies. Adult pale orangish brown or yellow, depending on the light, with a narrow dark cap. Juvenile darker above with pale feather edges. Can be inconspicuous in dense vegetation, but frequently makes short flights; on flying birds, note dark flight feathers contrasting with pale yellowish wing coverts. Typically quiet, but occasionally gives harsh grating calls when flushed.",
+        "macaulayID": "64359701",
+        "url": "https://ebird.org/species/yelbit/JP-13"
+    },
+    "Striated Heron": {
+        "binomialName": "Butorides striata",
+        "identification": "A very widespread small heron, common across much of the globe. Small size and overall gray color separates from most other herons and bitterns. Look for contrasting dark cap, distinct pale edges on wing feathers, and white and rufous stripes on front of neck. Juvenile streakier below than adult. Similar to Green Heron but note mostly gray neck with restricted rufous. Juvenile is much smaller and more slender than juvenile Black-crowned Night-Heron, with long streaks on the chest and spotting restricted to the wings. Normally solitary, found standing quietly around wetland habitats such as marshes, agricultural fields, rivers, and lakes.",
+        "macaulayID": "48900061",
+        "url": "https://ebird.org/species/strher/JP-13"
+    },
+    "Siberian Thrush": {
+        "binomialName": "Geokichla sibirica",
+        "identification": "Robust thrush, adult male unmistakable: dark slate-gray (black from a distance) overall, with an elegant, curving white eyebrow. Female is dark brown with a scaly pattern on the face and underparts; immature male is similar but replaces the female's brown with dark gray and has a grizzled whitish face. A shy and retiring bird, seldom leaving dense cover. Prefers well-shaded, damp areas of mid-elevation forests for breeding; winters in hill and montane forests. Forages mostly on the ground. Males sing from high perches, giving a series of throaty two-note whistles.",
+        "macaulayID": "50091301",
+        "url": "https://ebird.org/species/sibthr1/JP-13"
+    },
+    "Red-billed Leiothrix": {
+        "binomialName": "Leiothrix lutea",
+        "identification": "A plump, brightly colored babbler of dense forest understory. The yellow-orange breast and red bill are distinctive. The tail feathers have a peculiar outward curve near the tip. The song is a somewhat disjointed series of melodious phrases; calls include harsh scolding, chattering, and a repeated “peter-peter”. Native to Asia, from the eastern China west to the Himalayas; introduced to Hawaii, Japan, Reunion Island, and parts of Europe.",
+        "macaulayID": "409175471",
+        "url": "https://ebird.org/species/reblei/JP-13"
+    },
+    "Asian Brown Flycatcher": {
+        "binomialName": "Muscicapa dauurica",
+        "identification": "Plain brown flycatcher with a large-eyed appearance. Note bright white eyering and unmarked throat and underparts. Appears shorter- and plainer-winged than other similar brownish flycatchers. Favors broadleaf forests; also found in more open habitats on migration and wintering grounds. Sallies from exposed perches; cocks tail and flicks wings when perched. Song comprises high buzzy trilling and whistles. Calls include dry rattling and chittering.",
+        "macaulayID": "59418771",
+        "url": "https://ebird.org/species/asbfly/JP-13"
+    },
+    "Wilson's Storm-Petrel": {
+        "binomialName": "Oceanites oceanicus",
+        "identification": "Small and fluttery. Dark blackish-brown overall with even-width white rump patch and conspicuous pale wing panels. Long legs extend past the tail in flight; difficult to spot unless close. Frequently hovers and patters feet on surface of water when feeding. Most often seen in small, loose groups; sometimes feeds or rests on the water in a dense flock. Eats plankton from the surface of the water. Vexed taxonomy might include several cryptic species. Breeds in Antarctica and islands in the southern oceans. Ranges across all oceans when not breeding, mainly from May to October, typically staying offshore but sometimes seen from land. Most common in North Atlantic.",
+        "macaulayID": "108207221",
+        "url": "https://ebird.org/species/wispet/JP-13"
+    },
+    "Northern Hawk-Cuckoo": {
+        "binomialName": "Hierococcyx hyperythrus",
+        "identification": "A large, elusive cuckoo of lowland woodlands; plumages of both adults and juveniles mimic plumages of sparrowhawks. Adult gray above and pale below, with light orange suffusion on breast and sides; strikingly similar in plumage to Japanese and Chinese sparrowhawks, but has a much thinner bill (bicolored in adults) and a more lithe and smaller-headed profile. Juvenile brown above and white below, with heavily streaked underparts. Song a feverish, rapidly accelerating \"chu-witchy-chu-witchy!”",
+        "macaulayID": "139102791",
+        "url": "https://ebird.org/species/nohcuc1/JP-13"
+    },
+    "Blue-and-white Flycatcher": {
+        "binomialName": "Cyanoptila cyanomelana",
+        "identification": "Adult male is strikingly beautiful, with royal blue upperparts, white belly, and black face, throat, and breast; immature male has the adult’s blue wings but is brown otherwise. Female brown all over, with a smaller-headed profile than other brown flycatchers in range; young male very similar. Adult male very similar to the related Zappey's Flycatcher (no overlap in breeding range, but overlaps during migration), which lacks the black breast patch. Song is a short, sad-sounding series of whistles. Breeds in wooded lowland and submontane areas; winters in similar habitat, as well as more open areas.",
+        "macaulayID": "71033581",
+        "url": "https://ebird.org/species/bawfly2/JP-13"
+    },
+    "Siberian Blue Robin": {
+        "binomialName": "Larvivora cyane",
+        "identification": "A slender, long-legged songbird with a “crouched” profile. Adult male is unmistakable, with blue upperparts and snow-white belly separated by black running from the eye to the bend of the wing. Female warm brown with blue-tinted rump and whitish underparts. Juvenile resembles female but grayer above. Like most other robins, shy and retiring, inhabiting forested areas with dense undergrowth; on its breeding grounds, most easily detected by its song, an explosive “tsi-tsi-TEWEE-TEWEE.”",
+        "macaulayID": "78288621",
+        "url": "https://ebird.org/species/sibrob/JP-13"
+    },
+    "Oriental Reed Warbler": {
+        "binomialName": "Acrocephalus orientalis",
+        "identification": "In breeding range, this large, long-billed songster of expansive reedbeds can often be seen perched on top of a stalk belting its heart out, but on wintering grounds, it is more likely to be detected by a harsh, grating rattling from deep within the vegetation. Unremarkably plumaged, brown above, paler below, with a weak white supercilium and a short bristly crest, occasionally raised. Compare with other large reed warblers, especially Clamorous Reed Warbler.",
+        "macaulayID": "138132341",
+        "url": "https://ebird.org/species/orrwar1/JP-13"
+    },
+    "Ryukyu Minivet": {
+        "binomialName": "Pericrocotus tegimae",
+        "identification": "Medium-sized, slender songbird, dark above, white below; rather large for a minivet. Male has white forecrown and brow, lacking in female. In both sexes, white of breast curves up behind black ear coverts, producing a distinctive head pattern. Both also show dusky patches on the sides of the breast that make a “vested” appearance. Inhabits lowland to montane forests, where typically forages in small flocks. Gives a dry trilling call, often in flight.",
+        "macaulayID": "33106461",
+        "url": "https://ebird.org/species/ryumin1/JP-13"
+    },
+    "Cocos Booby": {
+        "binomialName": "Sula brewsteri",
+        "identification": "Large seabird of inshore and offshore waters in tropical regions of the eastern Pacific Ocean. Mostly brown, with a sharp white belly. The head and neck color vary geographically, and can be solidly brown or variably whitish. Immatures have a variably mottled brown belly that rarely looks solidly brown. Compare with other boobies. Often seen from beaches, sometimes just beyond the breakers. Usually plunge-dives from a shallow angle, much closer to the water than Blue-footed Booby. Breeds in colonies on offshore islands, nesting on the ground.",
+        "macaulayID": "624324629",
+        "url": "https://ebird.org/species/cocboo1/JP-13"
+    },
+    "Eurasian Treecreeper": {
+        "binomialName": "Certhia familiaris",
+        "identification": "An inconspicuous little bird (plumage blends well with bark) of woods, forests, and gardens with larger trees. Usually seen as singles or pairs, creeping along trunks and branches using its tail for support, like a mini-woodpecker. Probes in crevices for insects and spiders, and often spirals up then drops to low on the next tree and spirals up again. In areas where Short-toed Treecreeper also occurs, the two species are often not safely distinguished without considerable experience; look for “uneven steps” on the wing, whiter sides, and slightly shorter bill. Listen for high, thin “tseee”s and trills. Song is a lovely series of falling whistles, typically preceded by short trills and concluded with a flourishing rising whistle.",
+        "macaulayID": "35462121",
+        "url": "https://ebird.org/species/eurtre1/JP-13"
+    },
+    "Bulwer's Petrel": {
+        "binomialName": "Bulweria bulwerii",
+        "identification": "A small, slender petrel with long, narrow wings and a long tail. It is entirely dark brown except for diagonal buff-colored bars on the upper wings. The flight is usually low over the water, with fewer high arcs than other petrels. Nests on small islets off Kauai, Oahu, and Maui, and on most of the Northwestern Hawaiian Islands. Commonly seen offshore from boats and sometimes from shore. The call, heard only at breeding colonies, is a soft bark.",
+        "macaulayID": "63175241",
+        "url": "https://ebird.org/species/bulpet/JP-13"
+    },
+    "Eastern Cattle-Egret": {
+        "binomialName": "Ardea coromanda",
+        "identification": "Small, compact white heron with relatively short yellow bill. More often seen in dry habitats than other egrets, but also frequent in rice paddies and shallow wetlands. In the breeding season, look for bright orange head and breast, as well as a brighter bill. Leg color varies from reddish or yellow during the breeding season to black during the nonbreeding season. Juveniles have dark bill. Always note relatively short, thick neck and short legs compared with other egrets. Often gathers in flocks, frequently following large animals and field machinery.",
+        "macaulayID": "176720111",
+        "url": "https://ebird.org/species/categr2/JP-13"
+    },
+    "Bonin White-eye": {
+        "binomialName": "Apalopteron familiare",
+        "identification": "Unique and unmistakable inhabitant of the central and southern Ogasawara (Bonin) Islands. Gray-olive with a yellow head and strange triangular black mask. Found in a range of different habitats on the Ogasawaras, from remnant native vegetation to cultivated gardens. Feeds on the ground and at all levels of vegetation, often in pairs or small flocks. Gives sweet “deeeyu” and sharp metallic squeaks, amongst other vocalizations.",
+        "macaulayID": "206019261",
+        "url": "https://ebird.org/species/bonhon1/JP-13"
+    },
+    "White's Thrush": {
+        "binomialName": "Zoothera aurea",
+        "identification": "Burly thrush with brownish upperparts and white underparts; covered with black-edged scaling all over the body. In flight, two bright white stripes visible on black underwings. Feeds solitarily on the ground, usually in or near dense cover; walks instead of hops, moving in a comically jerky manner. Often very approachable. Prefers mid- to high-elevation forests for breeding but regularly found in lowland parks and forests in winter. Compare Scaly Thrush. Song is a high, fluty whistle which fades in and out in a distinctly unbird-like manner.",
+        "macaulayID": "104005431",
+        "url": "https://ebird.org/species/scathr2/JP-13"
+    },
+    "Blue Rock-Thrush": {
+        "binomialName": "Monticola solitarius",
+        "identification": "Medium-sized thrush-like bird, often seen on mountainsides, sea cliffs, quarries, ruins, and even towns. Males usually unmistakable: western birds are dark blue all over, but may appear all dark at a distance; eastern birds are blue with orange underparts. Females dark brown above, finely barred below. Long bill, wings, and tail make for a distinctive and very different shape than Rufous-tailed Rock-Thrush. Song is melodic and blackbird-like.",
+        "macaulayID": "97497371",
+        "url": "https://ebird.org/species/burthr/JP-13"
+    },
+    "Bonin Petrel": {
+        "binomialName": "Pterodroma hypoleuca",
+        "identification": "Medium-sized, long-tailed graceful seabird, breeding on outer islands of Japan. Grayish above, whitish below, with blackish “M” pattern in upperwing, blackish cap or cowl, and bold black bars in white underwing that form a unique pattern (with extensive black in the primaries). Black-winged Petrel has much narrower black bars in underwing and blackish trailing edge to upperwing. Plumage may also resemble much larger Hawaiian Petrel, but Hawaiian has darker crown and narrower black bars in underwing.",
+        "macaulayID": "28629941",
+        "url": "https://ebird.org/species/bonpet/JP-13"
+    },
+    "Brown Booby": {
+        "binomialName": "Sula leucogaster",
+        "identification": "Large seabird of inshore and offshore waters in tropical regions of the Atlantic, Indian, and western Pacific Oceans. Head, neck, and upperparts are solidly brown. Adult has a well-demarcated white belly and immature has a variably mottled brown belly that rarely looks solidly brown. Compare with other boobies and with juvenile Northern Gannet. Often seen from beaches, sometimes just beyond the breakers. Breeds in colonies on offshore islands, nesting on the ground. Recently showing up more regularly as a vagrant on inland lakes and reservoirs in the U.S. and Canada, and further north along the Atlantic coast. Similar to recently split Cocos Booby, but usually separated by range, and never shows a whitish head.",
+        "macaulayID": "20875501",
+        "url": "https://ebird.org/species/brnboo/JP-13"
+    },
+    "Lesser Cuckoo": {
+        "binomialName": "Cuculus poliocephalus",
+        "identification": "Like many other cuckoos, this species is most often detected by its song, a short phrase of jumbled notes, often likened to “eat-your-choKY-pepper!”, with the latter half being significantly louder than the former half. Most adults are gray with black-barred white underparts and dark eyes. Some females are bright rufous above with dark bars across the wings and back. Juvenile is brownish above and often has faint white edging to the wing feathers. Averages smaller but also more compact and stumpy in shape than other similar cuckoos. Sings and forages in the canopy of lowland and foothill forests.",
+        "macaulayID": "87718311",
+        "url": "https://ebird.org/species/lescuc1/JP-13"
+    },
+    "Izu Thrush": {
+        "binomialName": "Turdus celaenops",
+        "identification": "Handsome songbird found only on Izu, Tokara, and a few other islands off the coast of Japan, where fairly common, most abundant in broadleaf evergreen forests. Male orange-brown above, rich orange below, with black hood, yellow bill, and yellow eyering. Female lacks male’s hood and intense colors; very similar to female and young Brown-headed Thrush but has extensive black spotting on the undertail coverts. Song recalls Japanese Robin’s.",
+        "macaulayID": "246596191",
+        "url": "https://ebird.org/species/izuthr1/JP-13"
+    },
+    "Black-browed Reed Warbler": {
+        "binomialName": "Acrocephalus bistrigiceps",
+        "identification": "Dull brown reed warbler with a sharply marked head, found in a variety of wetland habitats with substantial vegetation cover. Namesake black brow line is not always apparent, but the thick and strikingly pale supercilium is distinctive in its clean-cut and squared-off appearance. Somewhat similar to the rarer Streaked Reed Warbler, but averages much darker and lacks the latter's black striping on the back and wings. Song is a scrambled set of chatters, chirps, and rattles, more musical and tuneful than Oriental Reed Warbler. Gives dry “chit,” often in series.",
+        "macaulayID": "53377411",
+        "url": "https://ebird.org/species/bbrwar1/JP-13"
+    },
+    "Asian Stubtail": {
+        "binomialName": "Urosphena squameiceps",
+        "identification": "A well-named tiny songbird, “a head with wings,” with rather long bill, long legs, and very short tail. Long buffy supercilium is conspicuous even in the gloomy leaf litter and dense shrubbery where this minute bird lurks. Other brown, skulking warblers such as Dusky and Radde's have much longer tails and lack the strongly contrasting buffy supercilium. Song an insect-like, throbbing buzz recalling a katydid or cicada.",
+        "macaulayID": "63351571",
+        "url": "https://ebird.org/species/asistu1/JP-13"
+    },
+    "Eurasian Kestrel": {
+        "binomialName": "Falco tinnunculus",
+        "identification": "Small falcon with distinctive male plumage: gray head, rusty back, gray tail with broad black tip. Female is brownish above, with barring on the back, wings, and tail. Note rather pointed wingtips (unlike rounded wings of Accipiter hawks), and distinct dark spotting on the breast. Inhabits open and lightly wooded country, farmlands, grasslands, and heathlands; often seen over grassy areas beside roads and at airports. Perches on wires and posts, and typically hunts by hovering, at times fairly high overhead. Very similar to Lesser Kestrel.",
+        "macaulayID": "234114551",
+        "url": "https://ebird.org/species/eurkes/JP-13"
+    },
+    "White-bellied Green-Pigeon": {
+        "binomialName": "Treron sieboldii",
+        "identification": "Medium-sized pigeon with olive-green wings and a pale belly. Both sexes green overall with yellowish-green heads (brighter in males). Males have a vivid maroon wing patch. Compare with smaller Whistling Green-Pigeon in Japan and Taiwan. The only regularly occurring green-pigeon in mainland East Asia. Generally uncommon in a wide range of forest and forest edge habitats, occasionally gathering in flocks on coastlines to drink salt water, presumably to aid digestion of fruit. Gives a series of somewhat jumbled mellow cooing whistles, often introduced with two to three ascending notes and followed with undulating repeated coos.",
+        "macaulayID": "167547201",
+        "url": "https://ebird.org/species/whbpig1/JP-13"
+    },
+    "Japanese Woodpecker": {
+        "binomialName": "Picus awokera",
+        "identification": "The only green-backed woodpecker in the region, found in deciduous and evergreen broadleaf forests in mountains. Plumage unmistakable, with green upperparts and numerous neat spots on the belly. Gives distinctive, robust “pyo pyo” whistles, in addition to “kyo kyo” calls extremely similar to some other woodpeckers. Drumming is fast and long.",
+        "macaulayID": "330491891",
+        "url": "https://ebird.org/species/japwoo1/JP-13"
+    },
+    "Bar-tailed Godwit": {
+        "binomialName": "Limosa lapponica",
+        "identification": "Gangly wader with a long bicolored bill. Breeding plumage is dark brick-red below (male) or pale orangey (female); nonbreeding plumage is overall gray-brown with white belly; compare to Black-tailed Godwit. In flight shows rather plain upperwings with only a faint whitish wing stripe; white rump and finely barred tail. Mainly coastal away from tundra breeding grounds. Often in flocks feeding on mudflats and in brackish coastal lagoons, roosting in adjacent freshwater habitats. Feeds by probing its long bill into the mud.",
+        "macaulayID": "42941121",
+        "url": "https://ebird.org/species/batgod/JP-13"
+    },
+    "Little Tern": {
+        "binomialName": "Sternula albifrons",
+        "identification": "Tiny, delicate-looking tern. Mainly coastal, but also occurs inland locally. Breeding plumage has black cap with white forehead chevron, black-tipped yellow bill. Readily identified by tiny size, though wintering adults can be confusingly similar in patterning to Common Tern; look out for black stripes extending from the shoulder to the wingtip. Breeds colonially on sandy and stony substrates, at times with other terns, from beaches to riverbanks and lakeshores. Often overlooked unless noisy and mobbing you at a colony. Flies with hurried deep wingbeats; splash dives in water to catch small fish.",
+        "macaulayID": "53146761",
+        "url": "https://ebird.org/species/litter1/JP-13"
+    },
+    "Black-winged Stilt": {
+        "binomialName": "Himantopus himantopus",
+        "identification": "Striking large black-and-white wader with a thin, straight bill and bright pink legs, found in wetlands with open shallow water throughout much of Africa and Eurasia, often in brackish habitats. Some populations are migratory, departing northerly breeding grounds for warmer southern regions. Often forms noisy colonies on bare ground near water. Essentially unmistakable throughout much of its range, but compare with Pied Stilt in parts of Southeast Asia. Feeds by wading in water, picking from the water surface with its needle-like bill. In flight, long pink legs stick out far beyond the tail. Calls loudly and stridently, especially when alarmed during the breeding season.",
+        "macaulayID": "23442331",
+        "url": "https://ebird.org/species/bkwsti/JP-13"
+    },
+    "Copper Pheasant": {
+        "binomialName": "Syrmaticus soemmerringii",
+        "identification": "An elegant, long-tailed pheasant with burnished coppery-brown feathers. Rather secretive; occurs mostly in dense cedar and cypress forests near streams. Male has bright red patch of skin around the eye and long banded tail. Female resembles Japanese subspecies of Ring-necked Pheasant but is reddish, with shorter tail, conspicuous white fringing on breast feathers, and less uniform plumage patterns generally. Gives indistinctive, low “ku-ku” calls while foraging. Male makes deep drumming sounds in breeding season during late winter and early spring.",
+        "macaulayID": "134247391",
+        "url": "https://ebird.org/species/copphe1/JP-13"
+    },
+    "Kamchatka Leaf Warbler": {
+        "binomialName": "Phylloscopus examinandus",
+        "identification": "Small songbird, essentially identical in plumage to Arctic Warbler and Japanese Leaf Warbler. A late spring migrant, often moving up the Chinese coast from Southeast Asia in mid- to late May. Breeds in the taiga forests and forest edges of the Kamchatka peninsula, Hokkaido, Sakhalin, and the Kuril Islands. Call is a low “chuck,” averaging lower than that of Japanese Leaf and Arctic Warblers. Song is a broken series of chattering notes, with each segment being in more discrete phrases than the more consistent, higher-pitched song of Arctic.",
+        "macaulayID": "69662191",
+        "url": "https://ebird.org/species/arcwar2/JP-13"
+    }
+}
