@@ -16,11 +16,12 @@ After pressing 'SEARCH', the app will show you most related bird species.
 1. Large Language Model (LLM): dunzhang/stella_en_1.5B_v5
 2. Vector Database: Chroma DB
 3. Frontend: Plotly Dash
-4. Data Source: <https://ebird.org/> (Tokyo)
+4. Data Source: <https://ebird.org/>
 
 ### **Screenshot**
 
-![./source/screenshot.png](./source/screenshot.png "screenshot")
+![./source/screenshot1.png](./source/screenshot1.png "screenshot1")
+![./source/screenshot2.png](./source/screenshot2.png "screenshot2")
 
 <!-- <a href="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/26854431/1800">
     <img src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/26854431/1800" width="500px" alt="Macaulay Library Media">

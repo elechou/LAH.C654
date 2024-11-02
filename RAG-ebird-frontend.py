@@ -7,7 +7,7 @@ external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
 app = Dash(__name__, title="RAG-ebird", external_stylesheets=external_stylesheets)
 
 # Initialize model
-# cache_folder = os.path.expanduser("/Users/shou/Code/huggingface_models")
+cache_folder = os.path.expanduser("/Users/shou/Code/huggingface_models")
 persist_dir = os.path.expanduser("./chroma_db")
 
 if "model" not in globals():
