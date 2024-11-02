@@ -34,7 +34,7 @@ This media is sourced from the [Macaulay Library](https://macaulaylibrary.org/as
 To install **RAG-eBird**, follow these steps:
 
 1. Clone the repository:  
-   `git clone https://github.com/elechou/RAG_ebird.git`
+   `git clone https://github.com/elechou/RAG_eBird.git`
 
 2. Navigate to the project directory:  
    `cd <repository-directory>`
