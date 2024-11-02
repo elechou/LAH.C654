@@ -1,21 +1,21 @@
 from sentence_transformers import SentenceTransformer
+from dash import Dash, dcc, html, Input, Output, State, callback
 import os
 import chromadb
-from dash import Dash, dcc, html, Input, Output, State, callback
 
 external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
 app = Dash(__name__, title="RAG-ebird", external_stylesheets=external_stylesheets)
 
 # Initialize model
-cache_folder = os.path.expanduser("/Users/shou/Code/huggingface_models")
+# cache_folder = os.path.expanduser("/Users/shou/Code/huggingface_models")
 persist_dir = os.path.expanduser("./chroma_db")
 
 if "model" not in globals():
     print("Loading dunzhang/stella_en_1.5B_v5...")
     model = SentenceTransformer(
         "dunzhang/stella_en_1.5B_v5",
-        cache_folder=cache_folder,
-        local_files_only=False,
+        # cache_folder=cache_folder,
+        # local_files_only=False,
         trust_remote_code=True,
     )
 
