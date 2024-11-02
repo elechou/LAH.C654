@@ -1,7 +1,7 @@
 from sentence_transformers import SentenceTransformer
+from dash import Dash, dcc, html, Input, Output, State, callback
 import os
 import chromadb
-from dash import Dash, dcc, html, Input, Output, State, callback
 
 external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
 app = Dash(__name__, title="RAG-ebird", external_stylesheets=external_stylesheets)
@@ -14,8 +14,8 @@ if "model" not in globals():
     print("Loading dunzhang/stella_en_1.5B_v5...")
     model = SentenceTransformer(
         "dunzhang/stella_en_1.5B_v5",
-        cache_folder=cache_folder,
-        local_files_only=False,
+        # cache_folder=cache_folder,
+        # local_files_only=False,
         trust_remote_code=True,
     )
 
