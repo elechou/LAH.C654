@@ -1,4 +1,4 @@
-## **RAG-ebird**
+## **RAG-eBird**
 
 A Retrieval-Augmented Generation(RAG) project for bird searching. 
 Workshop of Lecture LAH. C654.
@@ -18,7 +18,7 @@ After pressing 'SEARCH', the app will show you most related bird species.
 4. Data Source: https://ebird.org/ (Tokyo)
 
 ### **Screenshot**
-![source/Demo.png](source/Demo.png "Demo")
+![./source/screenshot.png](./source/screenshot.png "screenshot")
 
 <!-- <a href="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/26854431/1800">
     <img src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/26854431/1800" width="500px" alt="Macaulay Library Media">
@@ -31,7 +31,7 @@ This media is sourced from the [Macaulay Library](https://macaulaylibrary.org/as
 
 ## **Installation and Usage**
 
-To install **RAG-ebird**, follow these steps:
+To install **RAG-eBird**, follow these steps:
 
 1. Clone the repository:  
    `git clone https://github.com/elechou/RAG_ebird.git`
@@ -43,7 +43,7 @@ To install **RAG-ebird**, follow these steps:
    `pip install -r requirements.txt`
 
 4. Start the project:  
-   `python RAG-ebird-frontend.py`
+   `python RAG-eBird-frontend.py`
 
 5. Open the web app:  
    [http://localhost:8050/](http://localhost:8050/)
@@ -92,11 +92,11 @@ If you'd like to contribute to Project Title, here are some guidelines:
 
 ## **License**
 
-**RAG-ebird** is released under the MIT License. See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
+**RAG-eBird** is released under the MIT License. See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
 
 ## **Authors and Acknowledgment**
 
-**RAG-ebird** was created by **[Shou Qiu](https://github.com/elechou)**.
+**RAG-eBird** was created by **[Shou Qiu](https://github.com/elechou)**.
 
 <!-- Additional contributors include:
 
@@ -129,4 +129,4 @@ but accuracy is relatively low.
 
 ## **Contact**
 
-If you have any questions or comments about Project Title, please contact **[Shou Qiu](qiusots@gmail.com)**.
+If you have any questions or comments about **RAG-eBird**, please contact **[Shou Qiu](qiusots@gmail.com)**.
