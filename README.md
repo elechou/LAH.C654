@@ -14,7 +14,7 @@ Tools and data source:
 3. Data Source: https://ebird.org/
 
 DEMO:
-![source/RAG-ebird.png](source/RAG-ebird.png "Demo")
+![source/Demo.png](source/Demo.png "Demo")
 
 <!-- <a href="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/26854431/1800">
     <img src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/26854431/1800" width="500px" alt="Macaulay Library Media">
