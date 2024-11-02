@@ -126,7 +126,9 @@ Please note that this project is released with a Contributor Code of Conduct. By
 **A:**
 > This project uses `dunzhang/stella_en_1.5B_v5` to analysis user inputted text.
 > At the first time loading this app, `dunzhang/stella_en_1.5B_v5` needs to be downloaded in to your local machine,
-> which is quite heavy (about 6.2 GB). You can choose other LLM depends on your needs, however, if you changed to > > another LLM, you need to create your own database following **Database Creating**. Because the default database > > ([chroma_db.sqlite3](./chroma_db/chroma_db.sqlite3)) is created by `dunzhang/stella_en_1.5B_v5`. <br>
+> which is quite heavy (about 6.2 GB). You can choose other LLM depends on your needs, however,
+> if you changed to another LLM, you need to create your own database following **Database Creating**.
+> Because the default database ([chroma_db.sqlite3](./chroma_db/chroma_db.sqlite3)) is created by `dunzhang/stella_en_1.5B_v5`. <br>
 >`intfloat/multilingual-e5-large` is also tested in this project, which requires less RAM/Memory,
 > but accuracy is relatively low.
 
