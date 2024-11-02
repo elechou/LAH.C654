@@ -16,7 +16,7 @@ After pressing 'SEARCH', the app will show you most related bird species.
 1. Large Language Model (LLM): dunzhang/stella_en_1.5B_v5
 2. Vector Database: Chroma DB
 3. Frontend: Plotly Dash
-4. Data Source: <https://ebird.org/> (Tokyo)
+4. Data Source: <https://ebird.org/>
 
 ### **Screenshot**
 
