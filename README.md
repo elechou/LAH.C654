@@ -1,6 +1,6 @@
 ## **RAG-eBird**
 
-A Retrieval-Augmented Generation(RAG) project for bird searching. 
+A Retrieval-Augmented Generation(RAG) project for bird searching.
 Workshop of Lecture LAH. C654.
 
 ## **Introduction**
@@ -12,12 +12,14 @@ Or you can directly type nature language such as: "I found a group of red small 
 After pressing 'SEARCH', the app will show you most related bird species.
 
 ### **Tools and data source:**
+
 1. Large Language Model (LLM): dunzhang/stella_en_1.5B_v5
 2. Vector Database: Chroma DB
 3. Frontend: Plotly Dash
-4. Data Source: https://ebird.org/ (Tokyo)
+4. Data Source: <https://ebird.org/> (Tokyo)
 
 ### **Screenshot**
+
 ![./source/screenshot.png](./source/screenshot.png "screenshot")
 
 <!-- <a href="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/26854431/1800">
@@ -49,6 +51,7 @@ To install **RAG-eBird**, follow these steps:
    [http://localhost:8050/](http://localhost:8050/)
 
 ## **Database Creating**
+
 You can choose non-database deployment or a Chroma DB deployment.
 Non-databases can be run directly in Jupyter Notebook.
 There are two examples in the root folder.
@@ -58,16 +61,16 @@ since a non-database project needs to encode embedding documents each time.
 
 Steps to create your own database:
 
-1. **Fetch your bird data** 
-    
+1. **Fetch your bird data**
+
     You can find bird lists in eBird, here is an example:
 
     [https://ebird.org/region/JP-13/bird-list?rank=hc](https://ebird.org/region/JP-13/bird-list?rank=hc)
-    
+
     Change the city name you are interested in. Then copy the link to the `url` in
     [scrape_ebird_list.ipynb](scrape_ebird_list.ipynb).
     Run this Jupyter Notebook, a JSON file will be created.
-    
+
     ([./source/ebird_data.json](./source/ebird_data.json) is a scraped example. Can be used directly.)
 
 2. **Embedding bird identification info to database**
@@ -111,20 +114,24 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 ## **FAQ**
 
-**Q:** What kind of machines can this project be deployed on?
+**Q:**
+> What kind of machines can this project be deployed on?
 
-**A:** This project requires at least 16 GB of RAM to run `dunzhang/stella_en_1.5B_v5` properly.
+**A:**
+> This project requires at least 16 GB of RAM to run `dunzhang/stella_en_1.5B_v5` properly.
 
-**Q:** It is too slow to open this app **at the first time**.
+**Q:**
+> It is too slow to open this app **at the first time**.
 
-**A:** This project uses `dunzhang/stella_en_1.5B_v5` to analysis user inputted text.
-At the first time loading this app, `dunzhang/stella_en_1.5B_v5` needs to be downloaded in to your local machine,
-which is quite heavy (about 6.2 GB). You can choose other LLM depends on your needs, however, if you changed to another LLM, you need to create your own database following **Database Creating**. Because the default database ([chroma_db.sqlite3](./chroma_db/chroma_db.sqlite3)) is created by `dunzhang/stella_en_1.5B_v5`.
-
-`intfloat/multilingual-e5-large` is also tested in this project, which requires less RAM/Memory, 
-but accuracy is relatively low.
+**A:**
+> This project uses `dunzhang/stella_en_1.5B_v5` to analysis user inputted text.
+> At the first time loading this app, `dunzhang/stella_en_1.5B_v5` needs to be downloaded in to your local machine,
+> which is quite heavy (about 6.2 GB). You can choose other LLM depends on your needs, however, if you changed to > > another LLM, you need to create your own database following **Database Creating**. Because the default database > > ([chroma_db.sqlite3](./chroma_db/chroma_db.sqlite3)) is created by `dunzhang/stella_en_1.5B_v5`. <br>
+>`intfloat/multilingual-e5-large` is also tested in this project, which requires less RAM/Memory,
+> but accuracy is relatively low.
 
 ## **Change log**
+
 - **0.1.0(Nov.2 2024):** Initial release
 
 ## **Contact**
