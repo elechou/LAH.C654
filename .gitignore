@@ -1,3 +1,4 @@
 .vscode/
 venv/
 cache_model.ipynb
+.env

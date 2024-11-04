@@ -13,10 +13,11 @@ After pressing 'SEARCH', the app will show you most related bird species.
 
 ### **Tools and data source:**
 
-1. Large Language Model (LLM): dunzhang/stella_en_1.5B_v5
-2. Vector Database: Chroma DB
-3. Frontend: Plotly Dash
-4. Data Source: <https://ebird.org/>
+1. Large Language Model (LLM): meta/llama-3.1-70b-instruct
+2. Embedding Model: nvidia/llama-3.2-nv-embedqa-1b-v1
+3. Vector Database: Chroma DB
+4. Frontend: Plotly Dash
+5. Data Source: <https://ebird.org/>
 
 ### **Screenshot**
 
@@ -94,20 +95,6 @@ If you'd like to contribute to Project Title, here are some guidelines:
 7. Push your changes to your forked repository.
 8. Submit a pull request. -->
 
-## **License**
-
-**RAG-eBird** is released under the MIT License. See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
-
-## **Authors and Acknowledgment**
-
-**RAG-eBird** was created by **[Shou Qiu](https://github.com/elechou)**.
-
-<!-- Additional contributors include:
-
-- **[Contributor Name](https://github.com/contributor-name)**
-- **[Another Contributor](https://github.com/another-contributor)**
-Thank you to all the contributors for their hard work and dedication to the project. -->
-
 <!-- 
 ## **Code of Conduct**
 
@@ -129,14 +116,29 @@ Please note that this project is released with a Contributor Code of Conduct. By
 > At the first time loading this app, `dunzhang/stella_en_1.5B_v5` needs to be downloaded in to your local machine,
 > which is quite heavy (about 6.2 GB). You can choose other LLM depends on your needs, however,
 > if you changed to another LLM, you need to create your own database following **Database Creating**.
-> Because the default database ([chroma_db.sqlite3](./chroma_db/chroma_db.sqlite3)) is created by `dunzhang/stella_en_1.5B_v5`. <br>
+> Because the default database ([chroma_db.sqlite3](./chroma_db/chroma.sqlite3)) is created by `dunzhang/stella_en_1.5B_v5`. <br>
 >`intfloat/multilingual-e5-large` is also tested in this project, which requires less RAM/Memory,
 > but accuracy is relatively low.
 
 ## **Change log**
 
+- **0.1.1(Nov.4 2024):** Added API version app, enabled RAG function.
 - **0.1.0(Nov.2 2024):** Initial release
+
+## **License**
+
+**RAG-eBird** is released under the MIT License. See the **[LICENSE](https://opensource.org/license/mit)** file for details.
+
+## **Authors and Acknowledgment**
+
+**RAG-eBird** was created by **[Shou Qiu](https://github.com/elechou)**.
+
+<!-- Additional contributors include:
+
+- **[Contributor Name](https://github.com/contributor-name)**
+- **[Another Contributor](https://github.com/another-contributor)**
+Thank you to all the contributors for their hard work and dedication to the project. -->
 
 ## **Contact**
 
-If you have any questions or comments about **RAG-eBird**, please contact **[Shou Qiu](qiusots@gmail.com)**.
+If you have any questions or comments about **RAG-eBird**, please contact Shou Qiu (<qiusots@gmail.com>).
