@@ -1,3 +1,8 @@
+python>=3.10
 sentence-transformers
 dash
 chromadb
+langchain-chroma
+langchain-nvidia-ai-endpoints
+langchain
+python-dotenv
