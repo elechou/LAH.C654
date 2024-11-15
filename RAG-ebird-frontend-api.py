@@ -82,6 +82,7 @@ rag_chain = (
 
 app.layout = html.Div(
     [
+        html.Link(href="https://fonts.googleapis.com/css2?family=Jura:wght@300;400;500;600;700&display=swap", rel="stylesheet"),
         html.Div(
             [
                 dcc.Input(
@@ -156,9 +157,6 @@ def update_output(n_clicks, input_text):
     global retrieved_macaulayID_list
     global similarity_list
 
-    print(similarity_list)
-    print(retrieved_macaulayID_list)
-
     return output_text, [retrieved_macaulayID_list, similarity_list], []
 
 
@@ -190,4 +188,4 @@ def update_output(data):
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=80, debug=False)
+    app.run(host="0.0.0.0", port=8050, debug=False)
