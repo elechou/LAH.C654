@@ -127,7 +127,7 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 ## **License**
 
-**RAG-eBird** is released under the MIT License. See the **[LICENSE](https://opensource.org/license/mit)** file for details.
+**RAG-eBird** is released under the MIT License. See the LICENSE file for details.
 
 ## **Authors and Acknowledgment**
 
